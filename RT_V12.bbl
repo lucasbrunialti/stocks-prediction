@@ -1,0 +1,144 @@
+\begin{thebibliography}{}
+
+\bibitem[Abu-Mostafa, 2012]{Caltech2012}
+Abu-Mostafa, Y. (2012).
+\newblock Learning from data.
+\newblock University Lecture.
+
+\bibitem[Bazaraa et~al., 2006]{Bazaraa2006}
+Bazaraa, M., Sherali, H., \ebib  Shetty, C. (2006).
+\newblock {\em Nonlinear Programming Theory and Algorithms}.
+\newblock Wiley-Interscience, Hoboken, NJ, 3rd \edicaobib.
+
+\bibitem[Bodis, 2004]{bodis2004financial}
+Bodis, L. (2004).
+\newblock Financial time series forecasting using artificial neural networks.
+\newblock {\em Mestrado--Babe{\c{s}}-Bolyai University}.
+
+\bibitem[Bueno, 2000]{bueno2000analise}
+Bueno, A.~F. (2000).
+\newblock {\em An{\'a}lise emp{\'\i}rica do Dividend Yield das a{\c{c}}{\~o}es
+  brasileiras.}
+\newblock \tesebib, Universidade de S{\~a}o Paulo.
+
+\bibitem[Castro et~al., 2005]{Castro2005}
+Castro, C.~L., P{\'a}dua~Braga, A., \ebib  Andrade, A.~V. (2005).
+\newblock Aplica{\c{c}}{\~a}o de um modelo ensemble de redes neurais
+  artificiais para previs{\~a}o de s{\'e}ries temporais n{\~a}o
+  estacion{\'a}rias.
+\newblock {\em XXV Congresso da Sociedade Brasileira de Computa{\c{c}}{\~a}o},
+  XXV(V):722--731.
+
+\bibitem[Cho, 2003]{cho2003comparison}
+Cho, V. (2003).
+\newblock A comparison of three different approaches to tourist arrival
+  forecasting.
+\newblock {\em Tourism Management}, 24(3):323--330.
+
+\bibitem[Hair et~al., 2007]{hair2007analise}
+Hair, J.~F., Black, W.~C., Babin, B.~J., Anderson, R.~E., \ebib  Tatham, R.~L.
+  (2007).
+\newblock {\em An{\'a}lise multivariada de dados}.
+\newblock Bookman.
+
+\bibitem[Haykin et~al., 2009]{haykin2009neural}
+Haykin, S.~S., Haykin, S.~S., Haykin, S.~S., \ebib  Haykin, S.~S. (2009).
+\newblock {\em Neural networks and learning machines}, volume~3.
+\newblock Pearson Education Upper Saddle River.
+
+\bibitem[Hinton, 1989]{Hinton89}
+Hinton, G.~E. (1989).
+\newblock Connectionist learning procedures.
+\newblock \embib Carbonell, J., editor, {\em Machine Learning: Paradigms and
+  Methods}, \paginasbib 185--234. MIT Press, London.
+
+\bibitem[Huang et~al., 2012]{elmmulticlass2012}
+Huang, G.-B., Zhou, H., Ding, X., \ebib  Zhang, R. (2012).
+\newblock Extreme learning machine for regression and multiclass
+  classification.
+\newblock {\em Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE
+  Transactions on}, 42(2):513--529.
+
+\bibitem[Huang et~al., 2006]{huang2006extreme}
+Huang, G.-B., Zhu, Q.-Y., \ebib  Siew, C.-K. (2006).
+\newblock Extreme learning machine: theory and applications.
+\newblock {\em Neurocomputing}, 70(1):489--501.
+
+\bibitem[LeCun et~al., 1998]{lecun-efficient-backprop-1998}
+LeCun, Y., Bottou, L., Orr, G., \ebib  M\"{u}ller, K. (1998).
+\newblock Efficient backprop.
+\newblock \embib {\em Neural Networks: Tricks of the Trade}, Lecture Notes in
+  Computer Science, chapter~2, \paginabib 546. Springer Berlin / Heidelberg.
+
+\bibitem[Lee, 2009]{Lee200910896}
+Lee, M.-C. (2009).
+\newblock Using support vector machine with a hybrid feature selection method
+  to the stock trend prediction.
+\newblock {\em Expert Systems with Applications}, 36(8):10896 -- 10904.
+
+\bibitem[Leung et~al., 2000]{leung2000forecasting}
+Leung, M.~T., Daouk, H., \ebib  Chen, A.-S. (2000).
+\newblock Forecasting stock indices: a comparison of classification and level
+  estimation models.
+\newblock {\em International Journal of Forecasting}, 16(2):173--190.
+
+\bibitem[Moreira \csname @ebib \endcsname{} Fiesler, 1995]{moreira-techrep}
+Moreira, M. \ebib  Fiesler, E. (1995).
+\newblock Neural networks with adaptive learning rate and momentum terms.
+\newblock Technical report, Institut Dalle Molle D'intelelligence Artificielle
+  Perceptive.
+
+\bibitem[Moura, 2006]{de2006uso}
+Moura, F.~A. (2006).
+\newblock {\em O Uso De Redes Neurais Artificiais Na Previs{\~a}o De
+  Tend{\^e}ncias No Mercado De A{\c{C}}{\~o}es}.
+\newblock \tesebib, Universidade Federal De Pernambuco.
+
+\bibitem[Murphy, 2012]{Murphy2012}
+Murphy, K.~P. (2012).
+\newblock {\em Machine learning: a probabilistic perspective}.
+\newblock MIT Press, Cambridge, MA.
+
+\bibitem[Rifkin \csname @ebib \endcsname{} Klautau, 2004]{Rifkin2004}
+Rifkin, R. \ebib  Klautau, A. (2004).
+\newblock In defense of one-vs-all classification.
+\newblock {\em J. Mach. Learn. Res.}, 5:101--141.
+
+\bibitem[Rocha \csname @ebib \endcsname{} Vergili, 2007]{rocha2007esticar}
+Rocha, R.~H. \ebib  Vergili, R. (2007).
+\newblock {\em Como esticar seu dinheiro: fundamentos de educa{\c{c}}{\~a}o
+  financeira}.
+\newblock Rio de Janeiro: Elsevier.
+
+\bibitem[Santos, 2010]{Santos2010}
+Santos, A. F. C.~d. (2010).
+\newblock {\em Proposi{\c{c}}{\~a}o de um modelo Preditivo do Ibovespa por meio
+  da utiliza{\c{c}}{\~a}o de Redes Neurais Artificiais}.
+\newblock \tesebib, Pontif{\'i}ca Universidade Cat{\'o}lica de S{\~a}o Paulo.
+
+\bibitem[Sassi, 2006]{sassi2006arquitetura}
+Sassi, R.~J. (2006).
+\newblock {\em Uma arquitetura h{\'\i}brida para descoberta de conhecimento em
+  bases de dados: teoria dos rough sets e redes neurais artificiais mapas
+  auto-organiz{\'a}veis}.
+\newblock \tesebib, Universidade de S{\~a}o Paulo.
+
+\bibitem[Sutskever et~al., 2013]{SutskeverMartensDahlHinton_icml2013}
+Sutskever, I., Martens, J., Dahl, G.~E., \ebib  Hinton, G.~E. (2013).
+\newblock On the importance of initialization and momentum in deep learning.
+\newblock \embib Dasgupta, S. \ebib  Mcallester, D., \editoresbib, {\em
+  Proceedings of the 30th International Conference on Machine Learning
+  (ICML-13)}, volume~28, \paginasbib 1139--1147. JMLR Workshop and Conference
+  Proceedings.
+
+\bibitem[Vapnik, 1999]{vapnik1999overview}
+Vapnik, V.~N. (1999).
+\newblock An overview of statistical learning theory.
+\newblock {\em Neural Networks, IEEE Transactions on}, 10(5):988--999.
+
+\bibitem[Zhao et~al., 2012]{Zhao201279}
+Zhao, J., Wang, Z., \ebib  Park, D.~S. (2012).
+\newblock Online sequential extreme learning machine with forgetting mechanism.
+\newblock {\em Neurocomputing}, 87(0):79 -- 89.
+
+\end{thebibliography}

@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: RT_V12.aux
+The style file: ppgsi.bst
+Database file #1: rt_ep.bib
+Warning--can't use both volume and number fields in SutskeverMartensDahlHinton_icml2013
+You've used 24 entries,
+            1935 wiz_defined-function locations,
+            631 strings with 7976 characters,
+and the built_in function-call counts, 9016 in all, are:
+= -- 884
+> -- 338
+< -- 20
++ -- 113
+- -- 109
+* -- 735
+:= -- 1593
+add.period$ -- 75
+call.type$ -- 24
+change.case$ -- 166
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 360
+empty$ -- 640
+format.name$ -- 139
+if$ -- 1772
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 23
+newline$ -- 123
+num.names$ -- 76
+pop$ -- 150
+preamble$ -- 1
+purify$ -- 173
+quote$ -- 0
+skip$ -- 278
+stack$ -- 0
+substring$ -- 593
+swap$ -- 53
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 134
+warning$ -- 1
+while$ -- 70
+width$ -- 0
+write$ -- 317
+(There was 1 warning)
